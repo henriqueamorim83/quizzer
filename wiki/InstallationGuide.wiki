@@ -1,0 +1,22 @@
+#Installation Gude.
+
+= Introduction =
+
+Quizzer is a multi-modules project that uses [http://maven.apache.org  Apache Maven] as build and dependency management system. So you need to install Maven in order to get started.
+
+= Installing Maven=
+
+You can install Maven as a standalone application (command line) or, if you are using Eclipse IDE, you can have it integrating inside Eclipse (which is more convenient).
+
+Personnaly, i recommend both.
+
+
+== Installing Maven as standalone application ==
+
+Follow instruction [http://maven.apache.org/download.html here].
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
