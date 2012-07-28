@@ -23,15 +23,13 @@ This will allows you to easily import, create,and manage maven project from with
 Here are the steps required:
 
  * Go to Help Menu -> Eclipse Market place...
- * Search "maven" and select "Maven Integration for WTP"
+ * Search "maven" and select <b>"Maven Integration for WTP"</b>.
  [http://quizzer.googlecode.com/svn/wiki/images/eclipse-marketplace.png]
 
  [http://quizzer.googlecode.com/svn/wiki/images/eclipse-install-maven-wtp-plugin.PNG]
 
 
- * Once installed, restart you IDE.
-
-
+ * Once installed, restart you IDE. Then:
 
  * Go to File Menu -> Import..
  * Search for maven folder, and choose "Exisiting Maven project"
