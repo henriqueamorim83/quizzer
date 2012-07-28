@@ -22,27 +22,27 @@ This will allows you to easily import, create,and manage maven project from with
 
 Here are the steps required:
 
- *Go to Help Menu -> Eclipse Market place...
- *Search "maven" and select "Maven Integration for WTP"
+ * Go to Help Menu -> Eclipse Market place...
+ * Search "maven" and select "Maven Integration for WTP"
  [http://quizzer.googlecode.com/svn/wiki/images/eclipse-marketplace.png]
 
  [http://quizzer.googlecode.com/svn/wiki/images/eclipse-install-maven-wtp-plugin.PNG]
 
 
- *Once installed, restart you IDE.
+ * Once installed, restart you IDE.
 
 
 
- *Go to File Menu -> Import..
- *Search for maven folder, and choose "Exisiting Maven project"
+ * Go to File Menu -> Import..
+ * Search for maven folder, and choose "Exisiting Maven project"
  [http://quizzer.googlecode.com/svn/wiki/images/eclipse-import-maven-project.PNG]
- *Click 'Next'. 
+ * Click 'Next'. 
 
           
 
- *In the next screen, browse to the folder that contains "quizzer" root directory. If everything went well, you should have 4 pom.xml files listed as such:
-
- *You can uncheck the first pom.xml element, as it is not really a project, but just the parent pom.xml file, that declares.
+ * In the next screen, browse to the folder that contains "quizzer" root directory. If everything went well, you should have 4 pom.xml files listed as such:
+[http://quizzer.googlecode.com/svn/wiki/images/eclipse-import-maven-project-2.PNG]
+ * You can uncheck the first pom.xml element, as it is not really a project, but just the parent pom.xml file, that declares the 3 sub-modules.
 
 
 = Details =
