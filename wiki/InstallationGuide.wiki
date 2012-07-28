@@ -24,9 +24,9 @@ Here are the steps required:
 
  *Go to Help Menu -> Eclipse Market place...
  *Search "maven" and select "Maven Integration for WTP"
- [http://code.google.com/p/quizzer/source/browse/wiki/images/eclipse-marketplace.png]
+ [http://quizzer.googlecode.com/svn/wiki/images/eclipse-marketplace.png]
 
- [http://code.google.com/p/quizzer/source/browse/wiki/images/eclipse-install-maven-wtp-plugin.PNG]
+ [http://quizzer.googlecode.com/svn/wiki/images/eclipse-install-maven-wtp-plugin.PNG]
 
 
  *Once installed, restart you IDE.
@@ -35,7 +35,7 @@ Here are the steps required:
 
  *Go to File Menu -> Import..
  *Search for maven folder, and choose "Exisiting Maven project"
- [http://code.google.com/p/quizzer/source/browse/wiki/images/eclipse-import-maven-project.PNG]
+ [http://quizzer.googlecode.com/svn/wiki/images/eclipse-import-maven-project.PNG]
  *Click 'Next'. 
 
           
