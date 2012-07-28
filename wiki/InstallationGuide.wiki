@@ -13,7 +13,36 @@ Personnaly, i recommend both.
 
 == Installing Maven as standalone application ==
 
-Follow instruction [http://maven.apache.org/download.html here].
+Follow instructions [http://maven.apache.org/download.html here].
+
+== Installing Maven as Eclipse Plugin ==
+
+You need to install the <b>"Maven Integration for WTP"</b> plugin.
+This will allows you to easily import or create maven project in Eclipse.
+
+Here are the steps required:
+
+ *Go to Help Menu -> Eclipse Market place...
+ *Search "maven" and select "Maven Integration for WTP"
+ 
+
+
+
+ *Once installed, restart you IDE.
+
+
+
+*Go to File Menu -> Import..
+*Search for maven folder, and choose "Exisiting Maven project"
+*Click 'Next'. 
+
+          
+
+*In the next screen, browse to the folder that contains "quizzer" root directory. If everything went well, you should have 4 pom.xml files listed as such:
+
+
+
+
 = Details =
 
 Add your content here.  Format your content with:
