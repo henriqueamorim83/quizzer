@@ -1,0 +1,51 @@
+#Installation Gude.
+
+# Introduction #
+
+Quizzer is a multi-modules project, that uses [Apache Maven](http://maven.apache.org) as build and dependency management system. So you need to install Maven in order to get started.
+
+# Installing Maven #
+
+You can install Maven as a standalone application (that you will run via command line) or, if you are using Eclipse IDE, you can have it integrated inside Eclipse (which is more convenient).
+
+Personnaly, i recommend both.
+
+
+## Installing Maven as standalone application ##
+
+Follow instructions from Maven official site [here](http://maven.apache.org/download.html).
+
+## Installing Maven as Eclipse Plugin ##
+
+You need to install the <b>"Maven Integration for WTP"</b> plugin.
+This will allows you to easily import, create,and manage maven project from within Eclipse.
+
+Here are the steps required:
+
+  * Go to Help Menu -> Eclipse Market place...
+  * Search "maven" and select <b>"Maven Integration for WTP"</b>.
+> ![http://quizzer.googlecode.com/svn/wiki/images/eclipse-marketplace.png](http://quizzer.googlecode.com/svn/wiki/images/eclipse-marketplace.png)
+
+> http://quizzer.googlecode.com/svn/wiki/images/eclipse-install-maven-wtp-plugin.PNG
+
+
+  * Once installed, restart you IDE. Then:
+
+  * Go to File Menu -> Import..
+  * Search for maven folder, and choose "Exisiting Maven project"
+> http://quizzer.googlecode.com/svn/wiki/images/eclipse-import-maven-project.PNG
+  * Click 'Next'.
+
+
+
+  * In the next screen, browse to the folder that contains "quizzer" root directory. If everything went well, you should have 4 pom.xml files listed as such:
+http://quizzer.googlecode.com/svn/wiki/images/eclipse-import-maven-project-2.PNG
+  * You can uncheck the first pom.xml element, as it is not really a project, but just the parent pom.xml file, that declares the 3 sub-modules.
+
+
+# Details #
+
+Add your content here.  Format your content with:
+  * Text in **bold** or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
